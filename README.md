@@ -21,4 +21,3 @@ Atualmente em estudando Analise e Desenvolvimento de Sistemas e faço cursos pel
   
 </div>
 
-![Snake animation](https://github.com/GuiSantoos/GuiSantos/blob/output/github-contribution-grid-snake.svg)
